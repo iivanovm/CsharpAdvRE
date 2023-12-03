@@ -1,31 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "F:\\GitHubRepo\\CsharpDB\\CsharpDBAdv\\RegularExam\\Medicines\\Medicines.csproj": {}
+    "/Volumes/dt/CsharpCode/DB/CsharpAdvRE/Medicines/Medicines.csproj": {}
   },
   "projects": {
-    "F:\\GitHubRepo\\CsharpDB\\CsharpDBAdv\\RegularExam\\Medicines\\Medicines.csproj": {
+    "/Volumes/dt/CsharpCode/DB/CsharpAdvRE/Medicines/Medicines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\GitHubRepo\\CsharpDB\\CsharpDBAdv\\RegularExam\\Medicines\\Medicines.csproj",
+        "projectUniqueName": "/Volumes/dt/CsharpCode/DB/CsharpAdvRE/Medicines/Medicines.csproj",
         "projectName": "Medicines",
-        "projectPath": "F:\\GitHubRepo\\CsharpDB\\CsharpDBAdv\\RegularExam\\Medicines\\Medicines.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "F:\\GitHubRepo\\CsharpDB\\CsharpDBAdv\\RegularExam\\Medicines\\obj\\",
+        "projectPath": "/Volumes/dt/CsharpCode/DB/CsharpAdvRE/Medicines/Medicines.csproj",
+        "packagesPath": "/Users/wizard/.nuget/packages/",
+        "outputPath": "/Volumes/dt/CsharpCode/DB/CsharpAdvRE/Medicines/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/wizard/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -97,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
         }
       }
     }

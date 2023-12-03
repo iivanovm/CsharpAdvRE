@@ -26,7 +26,7 @@
             if (!optionsBuilder.IsConfigured)
             {
                 optionsBuilder
-                    .UseSqlServer(Configuration.connectionFootballersH);
+                    .UseSqlServer(Configuration.connectionFootballersW);
             }
         }
 
