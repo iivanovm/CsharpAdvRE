@@ -44,7 +44,10 @@
                 .ToArray();
 
 
-            return patients.SerializeToXml("Patients");
+
+            return patients.SerializeXml("Patients");
+
+
 
         }
 
